@@ -1,0 +1,17 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.mobileprovision
+*.key
+__pycache__/
+.venv/
+DerivedData/
+.build/
+*.xcuserstate
+xcuserdata/
+private-data/
+commercial-data/
+secrets/

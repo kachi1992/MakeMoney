@@ -1,0 +1,14 @@
+{
+  "evidence_id": "00000000-0000-4000-8000-000000000007",
+  "synthetic": true,
+  "issuer_id": "00000000-0000-4000-8000-000000000004",
+  "document_id": "00000000-0000-4000-8000-000000000008",
+  "source_url": null,
+  "source_type": "synthetic_fixture",
+  "source_published_at": "2025-01-06T21:00:00Z",
+  "first_seen_at": "2025-01-06T21:01:00Z",
+  "available_at": "2025-01-06T21:05:00Z",
+  "locator": {"kind": "fixture", "section": "factor-inputs"},
+  "text": "完全虚构的标准化因子：F=80，Q=85，V=60，C=100，M=75，E=50。仅测试加权与结构，不存在对应真实发行人。",
+  "license_scope": "synthetic_test_only"
+}
